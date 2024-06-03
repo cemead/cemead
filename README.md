@@ -14,7 +14,6 @@ I'm a Technical Support Engineer with a passion for transforming customer pain p
 Check out some of my latest projects and contributions:
 - [API Task Import for Onfleet (Python)](https://github.com/onfleet/developer/tree/master/api-tools/import-tasks)
 - [Magic Release Bot for Discord (Python)](https://github.com/cemead/magic-release-bot-discord/blob/main/magic_rel_bot.py)
-- [Project 3](#)
 
 # 📚Technical Writing Projects:
 - [Create Tasks in Batch (Async)](https://docs.onfleet.com/reference/create-tasks-in-batch-async)
