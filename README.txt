@@ -1,4 +1,4 @@
-👋 # Hello there!
+#👋 Hello there!
 
 I'm a Technical Support Engineer with a passion for transforming customer pain points into innovative solutions and continuously improving user experiences. I enjoy breaking down complex technical concepts into simple, understandable pieces and playing around with code. And my cat.
 
